@@ -1,0 +1,6 @@
+loguru==0.7.2
+paho-mqtt==2.0.0
+python-dotenv==1.0.1
+pygame==2.5.2
+opencv-python
+ultralytics
